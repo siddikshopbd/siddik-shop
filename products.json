@@ -1,11 +1,10 @@
-
 [
   {
-    "name": "poteto",
-    "price": 100,
-    "image": "https://share.google/GjoRqIuwEh9Zej5hF",
-    "description": "susadu",
-    "stock": 10,
-    "category": "সাধারণ"
+    "name": "পটেট",
+    "price": 20,
+    "image": "",
+    "description": "খাদ্য পণ্য",
+    "stock": 500,
+    "category": "খাদ্য"
   }
 ]
